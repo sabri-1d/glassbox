@@ -1,0 +1,8 @@
+rich==13.7.1
+python-dotenv==1.0.1
+
+# Uncomment whichever provider you use once you're ready to wire up a real API key:
+# anthropic==0.34.0
+# openai==1.40.0
+jinja2==3.1.4
+plotly==5.22.0

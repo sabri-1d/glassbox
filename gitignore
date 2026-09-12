@@ -1,0 +1,16 @@
+# Secret keys — never commit this
+.env
+
+# Local usage database — this is runtime data, not source code
+glassbox.db
+
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files (Phase 2+)
+output/
