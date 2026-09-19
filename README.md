@@ -6,7 +6,7 @@ GlassBox wraps model calls with a small Python decorator, records usage in SQLit
 
 [Open the GlassBox dashboard](output/glassbox_report.html)
 
-## What It Does
+##  What It Does.
 
 - Logs model name, token usage, estimated cost, latency, status, and errors.
 - Supports Anthropic-style and OpenAI-style usage objects.
