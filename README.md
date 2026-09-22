@@ -160,13 +160,3 @@ Install dependencies with:
 python -m pip install -r requirements.txt
 ```
 
-## Security Notes
-
-- Keep API keys in `.env`, never in source files.
-- Do not commit `glassbox.db`; it may contain operational metadata.
-- Review generated reports before sharing them publicly.
-- The report loads Plotly from a pinned CDN URL when opened in a browser.
-
-## License
-
-Add the license that matches how you want to distribute GlassBox before publishing the repository.
